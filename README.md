@@ -1,29 +1,28 @@
-# ming-assignment
+# Vue Todo App
 
-## Project setup
-```
-npm install
-```
+![ss](https://live.staticflickr.com/65535/48070147642_ba871c2243_o.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requirements
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Make sure that you have nodejs installed on your machine. Also, you need npm or yarn.
 
-### Run your tests
-```
-npm run test
-```
+## Install Deps
 
-### Lints and fixes files
-```
-npm run lint
-```
+    $ git clone https://github.com/serhangursoy/vue-todoapp.git
+    $ cd vue-todoapp
+    $ npm install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Start
+
+    $ npm start
+
+## Test
+
+    $ npm test
+
+
+## Helpers
+
+### Framework
+
+- [Vue](https://vuejs.org/) main framework.
