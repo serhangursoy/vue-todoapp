@@ -1,6 +1,6 @@
 # Vue Todo App
 
-![ss](https://live.staticflickr.com/65535/48070147642_ba871c2243_o.png)
+![ss](https://live.staticflickr.com/65535/48099855962_a6ba1f1ac8_o.jpg)
 
 ## Requirements
 
